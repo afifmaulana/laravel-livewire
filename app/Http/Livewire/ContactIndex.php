@@ -17,11 +17,10 @@ class ContactIndex extends Component
         return view('livewire.contact-index', [
             'contacts' => Contact::latest()->get()
         ]);
-
     }
 
     public function handleStored($contact)
     {
-
+        //
     }
 }

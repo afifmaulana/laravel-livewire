@@ -11,6 +11,5 @@
             </div>
         </div>
         <button type="submit" class="btn btn-sm btn-primary">Submit</button>
-        {{$name}}
     </form>
 </div>

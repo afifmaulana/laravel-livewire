@@ -78,7 +78,6 @@
             @yield('content')
         </main>
     </div>
-
     <livewire:scripts>
 </body>
 </html>
